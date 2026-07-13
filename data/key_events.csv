@@ -1,0 +1,17 @@
+event_id,event_name,start_date,category,description
+1,Gulf War (Iraq invasion of Kuwait),1990-08-02,Conflict,Iraq's invasion of Kuwait triggered fears of supply disruption from the Gulf region and a sharp price spike.
+2,Asian Financial Crisis,1997-07-02,Economic Shock,Currency collapse across East Asia sharply reduced regional oil demand, pressuring prices downward.
+3,OPEC Production Cut Agreement,1998-03-01,OPEC Policy,OPEC and non-OPEC producers agreed to cut output after prices crashed to historic lows in 1998.
+4,September 11 Attacks,2001-09-11,Geopolitical,Terrorist attacks on the US raised geopolitical risk premiums and disrupted global travel and trade demand.
+5,US Invasion of Iraq,2003-03-20,Conflict,Military invasion of Iraq raised concerns over Middle East supply stability.
+6,Global Financial Crisis,2008-09-15,Economic Shock,Collapse of Lehman Brothers triggered a global recession and the sharpest oil demand collapse in decades.
+7,Arab Spring / Libyan Civil War,2011-02-17,Conflict,Political uprisings across the Middle East and North Africa including the Libyan civil war disrupted regional oil output.
+8,OPEC Decision Not to Cut Output,2014-11-27,OPEC Policy,OPEC's decision to maintain production despite falling prices triggered the 2014-2016 oil price collapse.
+9,Iran Nuclear Deal (JCPOA),2015-07-14,Geopolitical,Agreement paved the way for the lifting of sanctions on Iranian oil exports increasing global supply expectations.
+10,OPEC+ Formation and First Production Cut Deal,2016-11-30,OPEC Policy,OPEC agreed with non-OPEC producers including Russia to cut output for the first time since 2008.
+11,US Re-imposition of Iran Sanctions,2018-05-08,Sanctions,US withdrawal from the JCPOA and renewed sanctions on Iranian oil exports tightened global supply.
+12,Saudi Aramco Drone Attacks,2019-09-14,Conflict,Attacks on Abqaiq and Khurais facilities knocked out roughly half of Saudi Arabia's oil output temporarily.
+13,COVID-19 Demand Collapse,2020-03-11,Economic Shock,WHO pandemic declaration and global lockdowns caused an unprecedented collapse in oil demand.
+14,OPEC+ Price War (Saudi Arabia vs Russia),2020-03-08,OPEC Policy,Breakdown of OPEC+ talks led Saudi Arabia to launch a price war flooding the market amid collapsing demand.
+15,Russia's Invasion of Ukraine,2022-02-24,Conflict,Invasion triggered sanctions on Russian energy exports and fears of major supply disruption in Europe.
+16,EU Ban and Price Cap on Russian Oil,2022-06-03,Sanctions,EU agreed to phase out Russian seaborne crude imports and later imposed a price cap with G7 partners.
