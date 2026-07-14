@@ -2,8 +2,8 @@ pandas
 numpy
 matplotlib
 seaborn
-pymc
-arviz
+pymc<6
+arviz<1
 statsmodels
 jupyter
 flask
