@@ -28,10 +28,26 @@ Place `BrentOilPrices.csv` in `data/` before running the notebooks.
 
 ```bash
 jupyter notebook notebooks/01_eda.ipynb
+jupyter notebook notebooks/02_changepoint_model.ipynb
 ```
 
-## Status
+## Running the dashboard
 
-- [x] Task 1: Repo setup, event research, assumptions, analysis plan
-- [ ] Task 2: Bayesian change point model
-- [ ] Task 3: Flask + React dashboard
+**Backend:**
+
+```bash
+pip install -r requirements.txt
+python scripts/app.py
+```
+
+Runs on http://localhost:5000
+
+**Frontend:**
+
+```bash
+cd dashboard
+npm install
+npm run dev
+```
+
+Runs on http://localhost:5173
